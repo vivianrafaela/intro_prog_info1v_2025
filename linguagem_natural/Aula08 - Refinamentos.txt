@@ -1,0 +1,20 @@
+1 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
+
+1. Ler [a];
+2. Ler [b];
+3. [diferença] = [a] - [b];
+4. Mostre [diferença];
+
+2 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+
+1. Ler [a];
+2. Ler [b];
+3. [produto] = [a] * [b];
+4. Mostre [produto];
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
+
+1. Ler [a];
+2. Ler [b];
+3. [quociente] = [a]/[b];
+4. Mostre [quociente];
