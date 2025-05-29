@@ -1,0 +1,86 @@
+1. Soma de dois números:
+
+1. Ler [a];
+2. Ler [b];
+3. [soma] = [a] + [b];
+4. Mostre [soma];
+
+2. Média aritmética de três números:
+
+1. Ler [a];
+2. Ler [b];
+3. Ler [c];
+4. [média] = ([a] + [b] + [c]) / 3;
+5. Mostre [média];
+
+3. Área de um retângulo:
+
+1. Ler [base];
+2. Ler [altura];
+3. [área] = [base] * [altura};
+4. Mostre [área];
+
+4. Área de um triângulo:
+
+1. Ler [base];
+2. Ler [altura];
+3. [área] = ([base] * [altura]) / 2;
+4. Mostre [área];
+
+5. Conversão de temperatura:.
+
+1. Ler [C];
+2. [F] = (9 * [C] + 160) / 5;
+3. Mostre [F]
+
+6. Média ponderada de três notas:
+Leia três notas e seus respectivos pesos e calcule a média ponderada.
+
+1. 
+
+
+7. Volume de uma caixa retangular:
+Leia o comprimento, a largura e a altura de uma caixa e calcule seu volume.
+
+8. Valor total da compra:
+Leia o preço de três produtos e exiba o valor total da compra.
+
+9. Tempo total de uma viagem:
+Leia o tempo gasto em horas e a velocidade média. Calcule a distância total (velocidade × tempo) e o tempo total em minutos.
+
+10. Conversão de dias em horas:
+Leia um número de dias e converta para horas (1 dia = 24 horas).
+
+11. Conversão de minutos em segundos:
+Leia uma quantidade de minutos e converta para segundos.
+
+12. Cálculo do novo salário:
+Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+
+13. Cálculo de juros simples:
+Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
+M = C + (C * i * t).
+
+14. Troco de uma compra:
+Leia o valor da compra e o valor pago. Calcule o troco.
+
+15. Cálculo do IMC (Índice de Massa Corporal):
+Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
+IMC = peso / (altura ** 2).
+
+16. Perímetro de um círculo:
+Leia o raio de um círculo e calcule o perímetro:
+P = 2 * π * raio (use π = 3.14).
+
+17. Diferença de idades:
+Leia duas idades e calcule a diferença entre elas.
+
+18. Média de consumo de combustível:
+Leia a distância percorrida (km) e o total de combustível gasto (litros) e calcule a média de consumo:
+consumo = km / litros.
+
+19. Valor a pagar em conta dividida:
+Leia o valor total de uma conta e o número de pessoas. Calcule quanto cada uma deve pagar.
+
+20. Cálculo de desconto:
+Leia o valor de um produto e a porcentagem de desconto. Exiba o valor com desconto.
