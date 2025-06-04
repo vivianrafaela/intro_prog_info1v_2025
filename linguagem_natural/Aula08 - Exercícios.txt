@@ -36,8 +36,11 @@
 6. Média ponderada de três notas:
 Leia três notas e seus respectivos pesos e calcule a média ponderada.
 
-1. 
-
+1. Ler [n1] e [p1];
+2. Ler [n2] e [p2];
+3. Ler [n3] e [p3];
+4. [mediap] = {([n1] * [p1]) + ([n2] * [p2]) + ([n3] * [p3])} / ([p1] + [p2] + [p3]);
+5. Mostre [mediap];
 
 7. Volume de uma caixa retangular:
 Leia o comprimento, a largura e a altura de uma caixa e calcule seu volume.
