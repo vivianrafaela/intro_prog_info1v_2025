@@ -42,45 +42,117 @@ Leia três notas e seus respectivos pesos e calcule a média ponderada.
 7. Volume de uma caixa retangular:
 Leia o comprimento, a largura e a altura de uma caixa e calcule seu volume.
 
+1. Ler [base];
+2. Ler [altura];
+3. Ler [largura];
+4. [volume] = [base] * [altura] * [largura];
+5. Mostre [volume];
+
+
 8. Valor total da compra:
 Leia o preço de três produtos e exiba o valor total da compra.
+
+1. Ler [produto1];
+2. Ler [produto2];
+3. Ler [produto3];
+4. [valor] = [produto1] + [produto2] + [produto3];
+5. Mostre [valor];
 
 9. Tempo total de uma viagem:
 Leia o tempo gasto em horas e a velocidade média. Calcule a distância total (velocidade × tempo) e o tempo total em minutos.
 
+1. Ler [horas];
+2. Ler [vm];
+3. [distancia] = [horas] * [vm];
+4. [minutos] = [horas] * 60;
+5. Mostre [distancia];
+6. Mostre [minutos];
+
 10. Conversão de dias em horas:
 Leia um número de dias e converta para horas (1 dia = 24 horas).
+
+1. Ler [dias];
+2. [horas] = [dias] * 24;
+3. Mostre [horas];
 
 11. Conversão de minutos em segundos:
 Leia uma quantidade de minutos e converta para segundos.
 
+1. Ler [minutos];
+2. [segundos] = [minutos] * 60;
+3. Mostre [segundos];
+
 12. Cálculo do novo salário:
 Leia um salário e um valor de aumento fixo. Exiba o novo salário.
+
+1. Ler [salario];
+2. Ler [aumento];
+3. [novosalario] = [salario] + [aumento];
 
 13. Cálculo de juros simples:
 Leia capital, taxa de juros mensal e tempo em meses. Calcule o montante com juros simples:
 M = C + (C * i * t).
 
+1. Ler [capital];
+2. Ler [taxa];
+3. Ler [tempo];
+4. [montante] = [capital] + ([capital] * [taxa] * [tempo]);
+5. Mostre [montante];
+
 14. Troco de uma compra:
 Leia o valor da compra e o valor pago. Calcule o troco.
+
+1. Ler [valorcompra];
+2. Ler [valorpago];
+3. [troco] = [valorpago] - [valorcompra];
+4. Mostre [troco];
 
 15. Cálculo do IMC (Índice de Massa Corporal):
 Leia o peso (kg) e a altura (m), e calcule o IMC usando a fórmula:
 IMC = peso / (altura ** 2).
 
+1. Ler [peso];
+2. Ler [altura];
+3. [imc] = [peso] / ([altura] * 2);
+4. Mostre [imc];
+
 16. Perímetro de um círculo:
 Leia o raio de um círculo e calcule o perímetro:
 P = 2 * π * raio (use π = 3.14).
 
+1. Ler [raio];
+2. [perimetro] = 2 * 3,14 * [raio];
+3. Mostre [perimetro];
+
 17. Diferença de idades:
 Leia duas idades e calcule a diferença entre elas.
+
+1. Ler [idademaior];
+2. Ler [idademenor];
+3. [diferenca] = [idademaior] - [idademenor];
+4. Mostre [diferenca];
 
 18. Média de consumo de combustível:
 Leia a distância percorrida (km) e o total de combustível gasto (litros) e calcule a média de consumo:
 consumo = km / litros.
 
+1. Ler [km];
+2. Ler [litros];
+3. [consumo] = [km] / [litros];
+4. Mostre [consumo];
+
 19. Valor a pagar em conta dividida:
 Leia o valor total de uma conta e o número de pessoas. Calcule quanto cada uma deve pagar.
 
+1. Ler [valor];
+2. Ler [pessoas];
+3. [divisao] = [valor] / [pessoas];
+4. Mostre [divisao];
+
 20. Cálculo de desconto:
 Leia o valor de um produto e a porcentagem de desconto. Exiba o valor com desconto.
+
+1. Ler [valor];
+2. Ler [porcentagem];
+3. [desconto] = [valor] - [porcentagem];
+4. Mostre [desconto];
