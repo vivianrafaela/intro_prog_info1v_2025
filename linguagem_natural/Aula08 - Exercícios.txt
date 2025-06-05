@@ -31,7 +31,7 @@
 
 1. Ler [C];
 2. [F] = (9 * [C] + 160) / 5;
-3. Mostre [F]
+3. Mostre [F];
 
 6. Média ponderada de três notas:
 Leia três notas e seus respectivos pesos e calcule a média ponderada.
