@@ -45,10 +45,10 @@ Leia três notas e seus respectivos pesos e calcule a média ponderada.
 7. Volume de uma caixa retangular:
 Leia o comprimento, a largura e a altura de uma caixa e calcule seu volume.
 
-1. Ler [base];
+1. Ler [comprimento];
 2. Ler [altura];
 3. Ler [largura];
-4. [volume] = [base] * [altura] * [largura];
+4. [volume] = [comprimento] * [altura] * [largura];
 5. Mostre [volume];
 
 
